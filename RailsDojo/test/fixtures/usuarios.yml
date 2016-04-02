@@ -2,8 +2,8 @@
 
 one:
   email: MyText
-  password: 
+  senha: MyString
 
 two:
   email: MyText
-  password: 
+  senha: MyString
