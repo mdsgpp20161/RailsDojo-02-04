@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+
+  root 'usuarioss#index'
+
   get 'usuarioss/index'
 
   get 'usuarioss/view'
